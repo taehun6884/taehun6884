@@ -2,13 +2,14 @@
 
 
 
-## 🛠 &nbsp;Technical Skills
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)&nbsp;
-![Oracle](https://img.shields.io/badge/React-34d2eb?style=flat&logo=react&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br/>
+<h2> My tech stack 📚 </h2>
 
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JAVA](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=JAVA&logoColor=white)
+![MYSQL-DB](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=MYSQL-DB)
+![ORACLE](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=ORACLE&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black)
+![AWS](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=AWS&logoColor=ffffff)
+![SPRING](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=SPRING&logoColor=green)
