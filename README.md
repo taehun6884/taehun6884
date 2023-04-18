@@ -11,5 +11,5 @@
 ![MYSQL-DB](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=MYSQL-DB)
 ![ORACLE](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=ORACLE&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black)
-![AWS](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=AWS&logoColor=ffffff)
-![SPRING](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=SPRING&logoColor=green)
+![AWS](https://img.shields.io/badge/-AWS-46a2f1?style=for-the-badge&logo=AWS&logoColor=ffffff)
+![SPRING](https://img.shields.io/badge/-SPRING-46a2f1?style=for-the-badge&logo=SPRING&logoColor=green)
